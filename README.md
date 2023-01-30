@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Syun</h2>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=syun199986&label=Profile%20views&color=0e75b6&style=flat" alt="syun199986" /> </p> -->
 
-<h3 align="left">Practice Now!</h3>
+<h3 align="left">Practice Now↓↓</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
